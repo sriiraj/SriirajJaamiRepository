@@ -45,7 +45,7 @@
 
 - 📫 How to reach me **sriiraj.jaami12@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YtpCwX7xs2GWPhfJUaV_VED_cVWYra5v/edit?usp=drive_link&ouid=100919808346360488533&rtpof=true&sd=true](https://docs.google.com/document/d/1YtpCwX7xs2GWPhfJUaV_VED_cVWYra5v/edit?usp=drive_link&ouid=100919808346360488533&rtpof=true&sd=true)
+- 📄 Know about my experiences [Check me out!](https://docs.google.com/document/d/1YtpCwX7xs2GWPhfJUaV_VED_cVWYra5v/edit?usp=drive_link&ouid=100919808346360488533&rtpof=true&sd=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
