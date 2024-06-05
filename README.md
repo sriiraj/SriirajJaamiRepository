@@ -1,5 +1,5 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sriiraj Jaami</h1>
-<h3 align="center">A passionate Data Engineer in Azure/AWS</h3>
+<h3 align="center">A passionate Data Engineer in Azure/AWS/Snowflake/Airflow</h3>
 
 
 <!-- [![GitHub sriiraj](https://img.shields.io/github/followers/sriiraj?label=follow&style=social)](https://github.com/sriiraj)
@@ -39,9 +39,9 @@
 
 - 🌱 I’m currently learning **DBT, Optimizing system design, streaming data processing**
 
-- 🤝 I’m looking for help with **In Job Hunt on Data Engineer**
+- 🤝 I’m looking for help with **In Networking with Data Engineer geeks!**
 
-- 💬 Ask me about **Data Engineer, ETL/ELT, Data pipelines, Data processing, Data validations**
+- 💬 Ask me about **Data Engineer, ETL/ELT, Data pipelines, Data processing, Data validations, performance optimization, OLAP/OLTP**
 
 - 📫 How to reach me **sriiraj.jaami12@gmail.com**
 
